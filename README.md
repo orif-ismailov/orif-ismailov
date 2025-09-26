@@ -47,14 +47,14 @@ I turn ideas into clean, performant, and maintainable code — with a strong lov
 ---
 
 ## 📊 GitHub Vibes
-![Orif's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Orif's GitHub stats](https://github-readme-stats.vercel.app/api?username=orif-ismailov&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orif-ismailov&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌐 Let's Connect
-🔗 [LinkedIn](https://www.linkedin.com/)  
-🐙 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](https://www.linkedin.com/orif-ismailov)  
+🐙 [GitHub](https://github.com/orif-ismailov)  
 
 ---
 
