@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Orif  
 
-💻 **Frontend Developer | Team Lead | Builder of Scalable Web Apps**  
+💻 **Frontend Engineer | Team Lead | Builder of Scalable Web Apps**  
 I turn ideas into clean, performant, and maintainable code — with a strong love for **React**, **TypeScript**, and **designing architectures that last**.  
 
 ---
