@@ -53,7 +53,7 @@ I turn ideas into clean, performant, and maintainable code — with a strong lov
 ---
 
 ## 🌐 Let's Connect
-🔗 [LinkedIn](https://www.linkedin.com/orif-ismailov)  
+🔗 [LinkedIn](https://www.linkedin.com/in/orif-ismailov)  
 🐙 [GitHub](https://github.com/orif-ismailov)  
 
 ---
