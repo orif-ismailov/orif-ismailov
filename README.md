@@ -47,7 +47,7 @@ I turn ideas into clean, performant, and maintainable code — with a strong lov
 ---
 
 ## 📊 GitHub Vibes
-![Orif's GitHub stats](https://github-readme-stats.vercel.app/api?username=orif-ismailov&show_icons=true&theme=tokyonight)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orif-ismailov&layout=compact&theme=tokyonight)  
 
 ---
